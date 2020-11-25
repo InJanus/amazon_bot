@@ -6,8 +6,8 @@ from selenium.webdriver.common.keys import Keys
 # driver = webdriver.Chrome()
 
 # arguments
-username = "5139677960"
-password = "551042Bc!"
+username = ""
+password = ""
 otp = True
 headless = True
 # link of product
